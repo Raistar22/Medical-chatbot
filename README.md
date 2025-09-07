@@ -147,6 +147,3 @@ Add these secrets in your repository:
 
 This chatbot is for **educational purposes only**. It is **not a substitute** for professional medical advice. Always consult a healthcare professional for medical concerns.
 
----
-
-Do you want me to also create a **GitHub Actions workflow file (`.github/workflows/deploy.yml`)** that automates Docker build & push + EC2 deploy for this project?
