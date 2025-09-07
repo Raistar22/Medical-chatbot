@@ -1,6 +1,3 @@
-Here’s a clean **README.md** draft for your project:
-
----
 
 # 🏥 Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
 
